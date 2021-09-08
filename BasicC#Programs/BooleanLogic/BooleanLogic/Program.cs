@@ -23,8 +23,26 @@ namespace BooleanLogic
             // Converting user input to integer then assigning it to variable called tickets
             int tickets = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(tickets);
-            // Using boolean logic to determine if user is qualified for insurance then printing it to console
-            Console.WriteLine("Are you qualified?\n" + (age > 15 && dui == false && tickets < 4));
+            if (age > 15 && dui == false && tickets < 4)
+            {
+                Console.WriteLine("Congratulations! You qualify for insurance!");
+            }
+            else if (age <= 15)
+            {
+                Console.WriteLine("Sorry, you are too young for insurance.");
+            }
+            else if (dui != false)
+            {
+                Console.WriteLine("Sorry, we can't give you insurance because of your DUI offense.");
+            }
+            else if (tickets > 3)
+            {
+                Console.WriteLine("Sorry, we can't give you insurance due to your ticket record.");
+            }
+            else
+            {
+                Console.WriteLine("Sorry, not sure what happened. Please try again.");
+            }
             Console.Read();
         }
     }
