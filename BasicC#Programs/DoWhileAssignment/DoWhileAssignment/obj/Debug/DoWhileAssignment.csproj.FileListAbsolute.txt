@@ -1,0 +1,7 @@
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\DoWhileAssignment\DoWhileAssignment\bin\Debug\DoWhileAssignment.exe.config
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\DoWhileAssignment\DoWhileAssignment\bin\Debug\DoWhileAssignment.exe
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\DoWhileAssignment\DoWhileAssignment\bin\Debug\DoWhileAssignment.pdb
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\DoWhileAssignment\DoWhileAssignment\obj\Debug\DoWhileAssignment.csproj.AssemblyReference.cache
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\DoWhileAssignment\DoWhileAssignment\obj\Debug\DoWhileAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\DoWhileAssignment\DoWhileAssignment\obj\Debug\DoWhileAssignment.exe
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\DoWhileAssignment\DoWhileAssignment\obj\Debug\DoWhileAssignment.pdb
