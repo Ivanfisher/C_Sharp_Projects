@@ -1,0 +1,7 @@
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
