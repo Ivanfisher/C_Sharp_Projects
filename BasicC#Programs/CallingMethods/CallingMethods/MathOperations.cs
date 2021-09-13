@@ -8,22 +8,28 @@ namespace CallingMethods
 {
     public class MathOperations
     {
-        public static int InputCubed(int int1)
+        public int Int1 { get; set; }
+        public decimal Decimal1 { get; set; }
+        public string String1 { get; set; }
+
+        // Creating a method that takes an integer parameter then returns the value of the argument times 5
+        public int Math1(int Int1)
         {
-            int1 = Convert.ToInt32(Math.Pow(int1, 3));
-            return int1;
+            return Int1 * 5;
         }
 
-        public static int InputQuotient(int int1)
+        // Creating a method that takes decimal parameter then returns the value of the argument plus 34 
+        public decimal Math1(decimal Decimal1)
         {
-            int1 = int1 / 6;
-            return int1;
+            
+            return Math.Round(Decimal1 * 7.25m);
         }
 
-        public static int InputRemainder(int int1)
+        // Creating a method that takes an integer parameter then returns the value of the argument times 5
+        public string Math1(string String1)
         {
-            int1 = int1 % 6;
-            return int1;
+            int x = Convert.ToInt32(String1) + 30;
+            return x.ToString();
         }
     }
     
