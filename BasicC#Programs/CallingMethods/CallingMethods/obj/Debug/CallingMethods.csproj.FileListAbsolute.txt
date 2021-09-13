@@ -1,0 +1,7 @@
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\CallingMethods\CallingMethods\bin\Debug\CallingMethods.exe.config
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\CallingMethods\CallingMethods\bin\Debug\CallingMethods.exe
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\CallingMethods\CallingMethods\bin\Debug\CallingMethods.pdb
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\CallingMethods\CallingMethods\obj\Debug\CallingMethods.csproj.AssemblyReference.cache
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\CallingMethods\CallingMethods\obj\Debug\CallingMethods.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\CallingMethods\CallingMethods\obj\Debug\CallingMethods.exe
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\CallingMethods\CallingMethods\obj\Debug\CallingMethods.pdb
