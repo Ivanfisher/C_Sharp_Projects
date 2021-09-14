@@ -14,6 +14,11 @@ namespace AbstractClass
             Employee name = new Employee() { FirstName = "Sample", LastName = "Student" };
             // Calling SayName method. method prints out full name
             name.SayName();
+
+
+            IQuittable demo = new Employee();
+            // Calling Quit function
+            demo.Quit();
             Console.Read();
         }
     }
