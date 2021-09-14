@@ -12,10 +12,7 @@ namespace AbstractClass
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        // Creating a method that prints out full name
-        public void SayName()
-        {
-            Console.WriteLine("Name: " + FirstName + " " + LastName);
-        }
+        // Creating an abstract method
+        public abstract void SayName();
     }
 }
