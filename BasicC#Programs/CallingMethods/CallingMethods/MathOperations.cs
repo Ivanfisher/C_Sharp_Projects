@@ -8,28 +8,10 @@ namespace CallingMethods
 {
     public class MathOperations
     {
-        public int Int1 { get; set; }
-        public decimal Decimal1 { get; set; }
-        public string String1 { get; set; }
-
-        // Creating a method that takes an integer parameter then returns the value of the argument times 5
-        public int Math1(int Int1)
+        // Creating method that takes in at least one parameter with optional second parameter
+        public static int Math1(int int1, int int2 = 1)
         {
-            return Int1 * 5;
-        }
-
-        // Creating a method that takes decimal parameter then returns the value of the argument plus 34 
-        public decimal Math1(decimal Decimal1)
-        {
-            
-            return Math.Round(Decimal1 * 7.25m);
-        }
-
-        // Creating a method that takes an integer parameter then returns the value of the argument times 5
-        public string Math1(string String1)
-        {
-            int x = Convert.ToInt32(String1) + 30;
-            return x.ToString();
+            return (int1 + 52) * int2;
         }
     }
     
