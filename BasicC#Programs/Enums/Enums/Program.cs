@@ -19,7 +19,6 @@ namespace Enums
                 // Using try/catch block. Code inside of try block is executed unless error is thrown then code in catch block is exucuted
                 try
                 {
-                    //WeekDays day = new WeekDays();
                     // Checking to see if user input is one the days of the week if true, assigning it to variable today
                     WeekDays.DaysOfWeek today = (WeekDays.DaysOfWeek)Enum.Parse(typeof(WeekDays.DaysOfWeek), Console.ReadLine());
                     Console.WriteLine(today);
