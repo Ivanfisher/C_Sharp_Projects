@@ -26,7 +26,7 @@ namespace TwentyOne
 
         public List<Card> Cards { get; set; }
 
-        // Creating a method called Shuffle that takes in argument deck, and optional parameter of how many times to call method. Method shuffles deck of cards
+        // Creating a method called Shuffle that takes in an optional parameter of how many times to call method. Method shuffles deck of cards
         public void Shuffle(int times = 1)
         {
             for (int i = 0; i < times; i++)

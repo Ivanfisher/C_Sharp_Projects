@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MethodsAndObjects
 {
-    class Person
+    public class Person
     {
         // Assigning two properties to Person class
         public string FirstName { get; set; }
