@@ -1,0 +1,7 @@
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\DateTimeMethod\DateTimeMethod\bin\Debug\DateTimeMethod.exe.config
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\DateTimeMethod\DateTimeMethod\bin\Debug\DateTimeMethod.exe
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\DateTimeMethod\DateTimeMethod\bin\Debug\DateTimeMethod.pdb
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\DateTimeMethod\DateTimeMethod\obj\Debug\DateTimeMethod.csproj.AssemblyReference.cache
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\DateTimeMethod\DateTimeMethod\obj\Debug\DateTimeMethod.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\DateTimeMethod\DateTimeMethod\obj\Debug\DateTimeMethod.exe
+C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\DateTimeMethod\DateTimeMethod\obj\Debug\DateTimeMethod.pdb

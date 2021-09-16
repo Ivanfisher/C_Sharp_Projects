@@ -8,6 +8,7 @@ namespace TwentyOne
 {
     public class Deck
     {
+        // Constructor creates a new list of cards
         public Deck()
         {
             Cards = new List<Card>();
