@@ -17,8 +17,6 @@ namespace Constructors
             const string name = "Ivan Fisher";
             // Creating an int variable with "var"
             var age = 24;
-            Console.WriteLine(person2);
-            Console.Read();
         }
     }
 }
