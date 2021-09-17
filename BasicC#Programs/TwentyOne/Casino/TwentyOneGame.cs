@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Casino.Interfaces;
 
-namespace TwentyOne
+namespace Casino.TwentyOne
 {
     public class TwentyOneGame : Game, IWalkAway
     {
@@ -23,11 +24,18 @@ namespace TwentyOne
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
             Dealer.Deck.Shuffle();
-            Console.WriteLine("Place your bet!");
 
             foreach (Player player in Players)
             {
-                int bet = Convert.ToInt32(Console.ReadLine());
+                bool validAnswer = false;
+                int bet = 0;
+                while (!validAnswer)
+                {
+                    Console.WriteLine("Place your bet!");
+                    validAnswer = int.TryParse(Console.ReadLine(), out bet);
+                    if (!validAnswer) Console.WriteLine("Please enter digits only, no decimals.");
+                }
+                if (bet < 0) throw new FraudException();
                 // Bet(bet) method checks if player's balance is large enough to bet that amount
                 bool successfullyBet = player.Bet(bet);
                 // Return to main method if player tries to bet more than player has
@@ -106,7 +114,7 @@ namespace TwentyOne
                     if (busted)
                     {
                         Dealer.Balance += Bets[player];
-                        Console.WriteLine("{0} busted! You lose your bet of {1}. Your balance is now {2}.", player.Name, Bets[player], player.Balance);
+                        Console.WriteLine("{0} busted! You lose your bet of {1}.", player.Name, Bets[player]);
                         TwentyOneGame.PlayAgain(player);
                         return;
                     }
@@ -177,7 +185,7 @@ namespace TwentyOne
         // Method checks if player wants to play again
         public static void PlayAgain(Player player)
         {
-            Console.WriteLine("Do you want to play again?");
+            Console.WriteLine("Your balance is {0}. \nDo you want to play again?", player.Balance);
             string answer = Console.ReadLine().ToLower();
             if (answer == "yes" || answer == "yeah" || answer == "yea")
             {
