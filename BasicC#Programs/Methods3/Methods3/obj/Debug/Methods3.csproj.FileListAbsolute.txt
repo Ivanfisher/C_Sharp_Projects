@@ -1,7 +1,0 @@
-C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\Methods3\Methods3\bin\Debug\Methods3.exe.config
-C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\Methods3\Methods3\bin\Debug\Methods3.exe
-C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\Methods3\Methods3\bin\Debug\Methods3.pdb
-C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\Methods3\Methods3\obj\Debug\Methods3.csproj.CoreCompileInputs.cache
-C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\Methods3\Methods3\obj\Debug\Methods3.exe
-C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\Methods3\Methods3\obj\Debug\Methods3.pdb
-C:\Users\ivanf\OneDrive\Documents\GitHub\Tech-Academy-Projects\C_Sharp_Projects\BasicC#Programs\Methods3\Methods3\obj\Debug\Methods3.csproj.AssemblyReference.cache
